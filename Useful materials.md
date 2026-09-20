@@ -17,7 +17,7 @@ https://juiceshop.akto.io/#/ - сайт для взлома
 https://labex.io/ru/skilltrees - учебный сайт
 https://codeby.net/threads/linux-dlya-pentestera-polnoye-rukovodstvo-po-instrumentam-tekhnikam-i-avtomatizatsii-v-2026-godu.92899/э
 
-> https://github.com/securitycipher/penetration-testing-roadmap/blob/main/Operating%20System/Linux.md - лучший роадмап и остальное все
+> [securitycipher/penetration-testing-roadmap: Complete Roadmap for Penetration Testing](https://github.com/securitycipher/penetration-testing-roadmap/tree/main) - лучший роадмап и остальное все
 
 https://www.youtube.com/watch?v=J4v1uCfJ9gg - how to learn hackers
 https://youtu.be/Iw3dIS9qfAM?si=McLGxpmF2uHVY5DA то же
@@ -41,9 +41,43 @@ https://youtu.be/pK3KgkuytVM?si=39aYuJYCkiU_dFrN - четвертая часть
 
 https://youtu.be/YGqbEe7qQDE?si=aYZep4T4bcaUiMCC - практика кали линукс на реальных машинах
 
+
 https://youtu.be/Mqut8fJHhVU?si=qpXxd5aWxJHTBgY1 - как собрать пк
+
 
 https://youtu.be/-9nJFJv8csg?si=r5jd_tKUAe0ZAZhM - администрирование виндовс
 
+
 https://youtu.be/vSmCMOVVQ_I?si=dt4S70Hu60CA-iG5 - маски подсети, айпи, днс
 
+
+https://prostodevops.ru/courses - небольшие курсы от просто девопс
+
+
+https://www.netacad.az/en/networking-basics/ - курс по сетям от cisco
+https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/ - курс по сетям от professormesser (преимущественно)
+
+
+https://www.practicepython.org/ - практика пайтон
+
+
+https://overthewire.org/wargames/bandit - прохождение уровней по линукс (игра
+
+
+https://youtu.be/6mhlHDJOQAw?si=_klscOdT8xigJkO0 - видео на 5 часов о докер и кубере
+https://youtu.be/cfJrtx-k96U?si=hwHn4svtlz8hzwOZ - 15 часовой курс по пайтон
+
+
+https://youtu.be/YYGUWtpvHVo?si=-25WUcX3M3iFtZdf - бэкенд роадмап
+
+
+https://youtu.be/OBqCYxhwR_o?si=13qMhS0366v8zKBw - лучший способ освоить сети
+
+
+https://youtu.be/jVFJbmpBI-A?si=uiRpoTlLvpLgZa4I - тулкит для мощных атак на кали линукс
+
+
+https://youtu.be/fNzpcB7ODxQ?si=Z73_HR4C48LqTaoo - 12 часовой курс по этичному хакингу
+
+
+https://youtu.be/4gr5m1xz0Ds?si=EpGE1ytaOIvGOsFE - 6 месячный план по тому как бы я учил хакинг
