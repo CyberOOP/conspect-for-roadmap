@@ -1,3 +1,18 @@
+обязательно к просмотру сейчас:
+https://www.youtube.com/@professormesser - канал про сети посмотреть у него в плейлисте
+
+типо игра cisco packet network практика на реальных сетях
+
+https://youtu.be/uVOzD-GX0kM?si=4ZtCjaxMl9fEzHmJ - про домашнюю лабораторию сетей
+https://www.pfsense.org/ - настройка виртуальной машины с брандмауэром pfSense, направление трафика через нее своей лаборатории и научиться писать правила брандмауэра которые работают так как задумали, после nmap и тд
+
+
+https://youtube.com/playlist?list=PLPxEwGlYuJQlGUzoAoZsNlSHjIgRUe9dU&si=0weTIqzkhkWSbhsa - курс по этичному хакингу ( на этом же канале курс по metasploite и внедрение sql кода)
+https://youtu.be/oNWGOOyQaoQ?si=CLpsLkuW_VE8FUON - глянуть одним глазом продвинутые команды linux
+
+
+
+
 https://github.com/florinpop17/app-ideas - идеи для проектов и тп
 https://github.com/practical-tutorials/project-based-learning - обучающий материал по всем языкам программирования
 https://github.com/Teslow/build-your-x - создание самые популярных технологий и инструкции к ним
@@ -26,7 +41,7 @@ https://youtu.be/7XOQv98QP8U?si=DV-mi4tZENwA0d4l - как превращаетс
 
 https://youtu.be/cxopc9hoicU?si=Ti_Tn4iAGcTMNxG6 - процессы
 
-https://youtu.be/XTCBE_wROVo?si=Dadyofjy9CUooTE0 - сети
+https://youtu.be/XTCBE_wROVo?si=Dadyofjy9CUooTE0 - управление сетью линукс
 
 
 
